@@ -1,0 +1,20 @@
+
+  button{
+    background-color: #ce7cc4;
+    width: 80px;
+    height: 50px;
+    border-radius: 5px;
+    color: #e8e7dd;
+
+}
+.card {
+    height: 80px;
+    width: 90px;
+    background-color: rgb(231, 184, 236);
+}
+
+.card2 {
+  height: 80px;
+  width: 90px;
+  background-color: rgb(231, 184, 236);
+}
